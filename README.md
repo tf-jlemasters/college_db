@@ -12,7 +12,7 @@ Fork repository, and open the project in your terminal. Run ```./insert_data.sh`
 ## Contributors
 Jackson LeMasters
 ## Repository
-- [Project Repo](github.com/tf-jlemasters/friend-app)
+- [Project Repo](https://github.com/tf-jlemasters/college_db)
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/82251556?v=4)
 - Jackson LeMasters

@@ -8,7 +8,7 @@ A Bash script that uses SQL to enter information about computer science students
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-Fork repository, and open the project in your terminal. Run ```./insert_data.sh``` in the terminal to create database.
+Fork repository, and open the project in your terminal. Run ```./insert_data.sh``` in the terminal to run the script after dumping the database.
 ## Contributors
 Jackson LeMasters
 ## Repository

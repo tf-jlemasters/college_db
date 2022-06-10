@@ -1,6 +1,6 @@
 # **College Database**
 ## Description 
-A Bash script that uses SQL to enter information about computer science students into PostgreSQL. Followed on FreeCodeCamp, this project was completed to understand how to create databases with a script.
+A Bash script that uses SQL to enter information about computer science students into PostgreSQL. Followed on FreeCodeCamp, this project was completed to gain a better understand of SQL and scripting.
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
